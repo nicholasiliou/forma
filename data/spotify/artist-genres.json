@@ -1,0 +1,693 @@
+{
+  "dua lipa": {
+    "spotifyId": "7fJc9xxkvT3XrVyNldffRu",
+    "spotifyName": "Dua Lipa",
+    "genres": [
+      "art pop",
+      "electropop",
+      "dance pop"
+    ],
+    "primaryGenre": "pop"
+  },
+  "the weeknd": {
+    "spotifyId": "dGikMChVFbjeHGgV7dvI1e",
+    "spotifyName": "The Weeknd",
+    "genres": [
+      "art pop",
+      "dance pop"
+    ],
+    "primaryGenre": "pop"
+  },
+  "harry styles": {
+    "spotifyId": "hSuSrk2IVkfXola6WuYkcA",
+    "spotifyName": "Harry Styles",
+    "genres": [
+      "art pop",
+      "pop"
+    ],
+    "primaryGenre": "pop"
+  },
+  "miley cyrus": {
+    "spotifyId": "7RvKJ5jyh8CLSLCbVMMQAE",
+    "spotifyName": "Miley Cyrus",
+    "genres": [
+      "art pop",
+      "electropop",
+      "dance pop",
+      "pop"
+    ],
+    "primaryGenre": "pop"
+  },
+  "taylor swift": {
+    "spotifyId": "KniA8mA20FaJcYR1yUU4Vj",
+    "spotifyName": "Taylor Swift",
+    "genres": [
+      "pop",
+      "dance pop"
+    ],
+    "primaryGenre": "pop"
+  },
+  "billie eilish": {
+    "spotifyId": "39esRiAIKPl2HGB6iGexrr",
+    "spotifyName": "Billie Eilish",
+    "genres": [
+      "pop",
+      "art pop",
+      "dance pop"
+    ],
+    "primaryGenre": "pop"
+  },
+  "ed sheeran": {
+    "spotifyId": "nLePXVFvPiZE7xsAhCCYve",
+    "spotifyName": "Ed Sheeran",
+    "genres": [
+      "electropop",
+      "pop",
+      "dance pop"
+    ],
+    "primaryGenre": "pop"
+  },
+  "olivia rodrigo": {
+    "spotifyId": "aAlY0pmg3ZrunQNvuB423d",
+    "spotifyName": "Olivia Rodrigo",
+    "genres": [
+      "electropop",
+      "art pop",
+      "dance pop",
+      "pop"
+    ],
+    "primaryGenre": "pop"
+  },
+  "kendrick lamar": {
+    "spotifyId": "7wvABr7h938z6eoOUbxImn",
+    "spotifyName": "Kendrick Lamar",
+    "genres": [
+      "hip hop",
+      "rap"
+    ],
+    "primaryGenre": "hip hop"
+  },
+  "drake": {
+    "spotifyId": "TuQ4YnA99BOZnkuV5JItnf",
+    "spotifyName": "Drake",
+    "genres": [
+      "hip hop",
+      "trap",
+      "rap",
+      "conscious hip hop"
+    ],
+    "primaryGenre": "hip hop"
+  },
+  "travis scott": {
+    "spotifyId": "8BihKoYF7docOWYHYEK9VK",
+    "spotifyName": "Travis Scott",
+    "genres": [
+      "hip hop",
+      "conscious hip hop",
+      "rap"
+    ],
+    "primaryGenre": "hip hop"
+  },
+  "eminem": {
+    "spotifyId": "5pbn7NhFIfNIZ99EOfCkKl",
+    "spotifyName": "Eminem",
+    "genres": [
+      "hip hop",
+      "rap",
+      "trap",
+      "conscious hip hop"
+    ],
+    "primaryGenre": "hip hop"
+  },
+  "post malone": {
+    "spotifyId": "bk4666a47ayMaVytGyFRfr",
+    "spotifyName": "Post Malone",
+    "genres": [
+      "rap",
+      "conscious hip hop",
+      "hip hop",
+      "trap"
+    ],
+    "primaryGenre": "hip hop"
+  },
+  "j. cole": {
+    "spotifyId": "Ob7dE53wrjUs67fMlGDJfn",
+    "spotifyName": "J. Cole",
+    "genres": [
+      "hip hop",
+      "rap",
+      "conscious hip hop",
+      "trap"
+    ],
+    "primaryGenre": "hip hop"
+  },
+  "kanye west": {
+    "spotifyId": "y0CW5GOmgXaMetd6eVV2Eb",
+    "spotifyName": "Kanye West",
+    "genres": [
+      "conscious hip hop",
+      "hip hop"
+    ],
+    "primaryGenre": "hip hop"
+  },
+  "21 savage": {
+    "spotifyId": "R4OQFy7iridsFW6XkReTpy",
+    "spotifyName": "21 Savage",
+    "genres": [
+      "trap",
+      "conscious hip hop",
+      "rap"
+    ],
+    "primaryGenre": "hip hop"
+  },
+  "foo fighters": {
+    "spotifyId": "2yJILohwtRAdHgRXSPXDf9",
+    "spotifyName": "Foo Fighters",
+    "genres": [
+      "alternative rock",
+      "hard rock",
+      "post-punk revival"
+    ],
+    "primaryGenre": "rock"
+  },
+  "arctic monkeys": {
+    "spotifyId": "ILgQiJTD5I2vSckTI3Grme",
+    "spotifyName": "Arctic Monkeys",
+    "genres": [
+      "post-punk revival",
+      "alternative rock"
+    ],
+    "primaryGenre": "rock"
+  },
+  "imagine dragons": {
+    "spotifyId": "czzMVFhPl9Jagww7Tl4gas",
+    "spotifyName": "Imagine Dragons",
+    "genres": [
+      "post-punk revival",
+      "hard rock"
+    ],
+    "primaryGenre": "rock"
+  },
+  "linkin park": {
+    "spotifyId": "9ISlGDGoiXgfM52S9OuQgS",
+    "spotifyName": "Linkin Park",
+    "genres": [
+      "indie rock",
+      "post-punk revival"
+    ],
+    "primaryGenre": "rock"
+  },
+  "red hot chili peppers": {
+    "spotifyId": "ry0AveuWzYAv3D2BHt4cpc",
+    "spotifyName": "Red Hot Chili Peppers",
+    "genres": [
+      "indie rock",
+      "post-punk revival",
+      "alternative rock",
+      "hard rock"
+    ],
+    "primaryGenre": "rock"
+  },
+  "nirvana": {
+    "spotifyId": "5lz7wsn9YawJnddLSCLx6o",
+    "spotifyName": "Nirvana",
+    "genres": [
+      "alternative rock",
+      "indie rock"
+    ],
+    "primaryGenre": "rock"
+  },
+  "green day": {
+    "spotifyId": "ZZxsosMDzl3Jq3Q3006wE0",
+    "spotifyName": "Green Day",
+    "genres": [
+      "hard rock",
+      "alternative rock",
+      "indie rock",
+      "post-punk revival"
+    ],
+    "primaryGenre": "rock"
+  },
+  "muse": {
+    "spotifyId": "iCPY0nGCO15RcwcoxCl2ab",
+    "spotifyName": "Muse",
+    "genres": [
+      "alternative rock",
+      "indie rock",
+      "hard rock",
+      "post-punk revival"
+    ],
+    "primaryGenre": "rock"
+  },
+  "daft punk": {
+    "spotifyId": "PbmdEuidXFbw4pQlBWPNGZ",
+    "spotifyName": "Daft Punk",
+    "genres": [
+      "electro house",
+      "edm"
+    ],
+    "primaryGenre": "electronic"
+  },
+  "calvin harris": {
+    "spotifyId": "wFyWmfFxcgTVZYJHjhnAEU",
+    "spotifyName": "Calvin Harris",
+    "genres": [
+      "progressive house",
+      "electro house",
+      "house",
+      "edm"
+    ],
+    "primaryGenre": "electronic"
+  },
+  "avicii": {
+    "spotifyId": "OazWoHz2rBtANTYh7R5LRz",
+    "spotifyName": "Avicii",
+    "genres": [
+      "progressive house",
+      "electro house",
+      "house"
+    ],
+    "primaryGenre": "electronic"
+  },
+  "martin garrix": {
+    "spotifyId": "b0PrNzaMGHOisgQXiYsTXU",
+    "spotifyName": "Martin Garrix",
+    "genres": [
+      "edm",
+      "electro house",
+      "house"
+    ],
+    "primaryGenre": "electronic"
+  },
+  "marshmello": {
+    "spotifyId": "mGGmA3Q3Gr8AubFq3d8cd3",
+    "spotifyName": "Marshmello",
+    "genres": [
+      "edm",
+      "house",
+      "electro house",
+      "progressive house"
+    ],
+    "primaryGenre": "electronic"
+  },
+  "deadmau5": {
+    "spotifyId": "tSBrcTopeDjG5zmYXD6uQm",
+    "spotifyName": "Deadmau5",
+    "genres": [
+      "edm",
+      "house",
+      "progressive house"
+    ],
+    "primaryGenre": "electronic"
+  },
+  "flume": {
+    "spotifyId": "uHCMz7oSPxB86ouUXzxKsY",
+    "spotifyName": "Flume",
+    "genres": [
+      "electro house",
+      "progressive house",
+      "house",
+      "edm"
+    ],
+    "primaryGenre": "electronic"
+  },
+  "odesza": {
+    "spotifyId": "A7L4GKYfuUrGW7SnzKVhAK",
+    "spotifyName": "ODESZA",
+    "genres": [
+      "progressive house",
+      "edm",
+      "house",
+      "electro house"
+    ],
+    "primaryGenre": "electronic"
+  },
+  "sza": {
+    "spotifyId": "lZtuEi3WLy5MjKnQKeTY1A",
+    "spotifyName": "SZA",
+    "genres": [
+      "r&b",
+      "contemporary r&b",
+      "alternative r&b",
+      "neo soul"
+    ],
+    "primaryGenre": "r&b"
+  },
+  "frank ocean": {
+    "spotifyId": "95chTLvXxENYmdzO9D6N8v",
+    "spotifyName": "Frank Ocean",
+    "genres": [
+      "neo soul",
+      "alternative r&b",
+      "contemporary r&b"
+    ],
+    "primaryGenre": "r&b"
+  },
+  "daniel caesar": {
+    "spotifyId": "fVqTmcyb6UEUJlH6BRVXx8",
+    "spotifyName": "Daniel Caesar",
+    "genres": [
+      "alternative r&b",
+      "contemporary r&b"
+    ],
+    "primaryGenre": "r&b"
+  },
+  "khalid": {
+    "spotifyId": "ZPjoGa4waAuaFu7K5yQG8G",
+    "spotifyName": "Khalid",
+    "genres": [
+      "alternative r&b",
+      "neo soul"
+    ],
+    "primaryGenre": "r&b"
+  },
+  "h.e.r.": {
+    "spotifyId": "w3oVfmNJUyre1TNiu45g7W",
+    "spotifyName": "H.E.R.",
+    "genres": [
+      "contemporary r&b",
+      "neo soul"
+    ],
+    "primaryGenre": "r&b"
+  },
+  "bruno mars": {
+    "spotifyId": "GWwsTZofLwc9mF3Fbcbx36",
+    "spotifyName": "Bruno Mars",
+    "genres": [
+      "contemporary r&b",
+      "r&b",
+      "alternative r&b"
+    ],
+    "primaryGenre": "r&b"
+  },
+  "beyonce": {
+    "spotifyId": "t7FgUfGIckQEA3Vt9WIUN0",
+    "spotifyName": "Beyonce",
+    "genres": [
+      "alternative r&b",
+      "r&b",
+      "neo soul"
+    ],
+    "primaryGenre": "r&b"
+  },
+  "metallica": {
+    "spotifyId": "XJTgNy5SGxXCencPeQK5RV",
+    "spotifyName": "Metallica",
+    "genres": [
+      "industrial metal",
+      "alternative metal",
+      "nu metal",
+      "metal"
+    ],
+    "primaryGenre": "metal"
+  },
+  "system of a down": {
+    "spotifyId": "XifgZALpnrXgUf7C6qW9vX",
+    "spotifyName": "System Of A Down",
+    "genres": [
+      "nu metal",
+      "alternative metal"
+    ],
+    "primaryGenre": "metal"
+  },
+  "rammstein": {
+    "spotifyId": "yL8ZeVcS9mzjuP4eI6YGEG",
+    "spotifyName": "Rammstein",
+    "genres": [
+      "industrial metal",
+      "alternative metal",
+      "nu metal",
+      "metal"
+    ],
+    "primaryGenre": "metal"
+  },
+  "slipknot": {
+    "spotifyId": "UESpmvBmKRcaNkUWBx34DY",
+    "spotifyName": "Slipknot",
+    "genres": [
+      "metal",
+      "nu metal",
+      "industrial metal",
+      "alternative metal"
+    ],
+    "primaryGenre": "metal"
+  },
+  "avenged sevenfold": {
+    "spotifyId": "pS0LplWRGBCtieqKeHjOhB",
+    "spotifyName": "Avenged Sevenfold",
+    "genres": [
+      "industrial metal",
+      "alternative metal",
+      "nu metal"
+    ],
+    "primaryGenre": "metal"
+  },
+  "disturbed": {
+    "spotifyId": "uzZqoy78aJTJsGFJpW4V0x",
+    "spotifyName": "Disturbed",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "metal",
+      "industrial metal"
+    ],
+    "primaryGenre": "metal"
+  },
+  "five finger death punch": {
+    "spotifyId": "kI8T2Lho1jDeVNNVuzDO6U",
+    "spotifyName": "Five Finger Death Punch",
+    "genres": [
+      "industrial metal",
+      "alternative metal",
+      "nu metal"
+    ],
+    "primaryGenre": "metal"
+  },
+  "parkway drive": {
+    "spotifyId": "iyn1KBoZUdFEusnO8WsmUW",
+    "spotifyName": "Parkway Drive",
+    "genres": [
+      "metal",
+      "alternative metal",
+      "nu metal"
+    ],
+    "primaryGenre": "metal"
+  },
+  "tame impala": {
+    "spotifyId": "jhUixgembKnUDkMqfu6AxZ",
+    "spotifyName": "Tame Impala",
+    "genres": [
+      "indie rock",
+      "indie pop"
+    ],
+    "primaryGenre": "indie"
+  },
+  "glass animals": {
+    "spotifyId": "UDeilNbdJH4vMRTRdZQYGQ",
+    "spotifyName": "Glass Animals",
+    "genres": [
+      "indie rock",
+      "indie pop",
+      "psychedelic pop",
+      "chamber pop"
+    ],
+    "primaryGenre": "indie"
+  },
+  "mac demarco": {
+    "spotifyId": "aUUEyzRbj1hpMOPKEOWZrn",
+    "spotifyName": "Mac DeMarco",
+    "genres": [
+      "chamber pop",
+      "indie rock",
+      "indie pop",
+      "psychedelic pop"
+    ],
+    "primaryGenre": "indie"
+  },
+  "cage the elephant": {
+    "spotifyId": "8TPlYFWyU8OaySjQ7RJJWe",
+    "spotifyName": "Cage The Elephant",
+    "genres": [
+      "psychedelic pop",
+      "chamber pop",
+      "indie pop"
+    ],
+    "primaryGenre": "indie"
+  },
+  "mgmt": {
+    "spotifyId": "qcLRoMuaGBhDQicZanw4Rx",
+    "spotifyName": "MGMT",
+    "genres": [
+      "psychedelic pop",
+      "indie rock"
+    ],
+    "primaryGenre": "indie"
+  },
+  "radiohead": {
+    "spotifyId": "9xmGSYYjqJIiOnAPeRmdNH",
+    "spotifyName": "Radiohead",
+    "genres": [
+      "indie rock",
+      "indie pop",
+      "psychedelic pop",
+      "chamber pop"
+    ],
+    "primaryGenre": "indie"
+  },
+  "the strokes": {
+    "spotifyId": "JXjHIcDJv2esH8DEsyPjy3",
+    "spotifyName": "The Strokes",
+    "genres": [
+      "psychedelic pop",
+      "indie rock",
+      "indie pop"
+    ],
+    "primaryGenre": "indie"
+  },
+  "vampire weekend": {
+    "spotifyId": "94y7DWuftITrTYkVfrY2cq",
+    "spotifyName": "Vampire Weekend",
+    "genres": [
+      "indie rock",
+      "chamber pop",
+      "indie pop",
+      "psychedelic pop"
+    ],
+    "primaryGenre": "indie"
+  },
+  "bad bunny": {
+    "spotifyId": "l0OXI4vu44YHBE3oknFJY3",
+    "spotifyName": "Bad Bunny",
+    "genres": [
+      "latin pop",
+      "reggaeton",
+      "latin urban"
+    ],
+    "primaryGenre": "latin"
+  },
+  "j balvin": {
+    "spotifyId": "FbXugraIExSRxsFw1nQyEM",
+    "spotifyName": "J Balvin",
+    "genres": [
+      "reggaeton",
+      "latin pop",
+      "latin urban"
+    ],
+    "primaryGenre": "latin"
+  },
+  "rosalia": {
+    "spotifyId": "qUZt3fuEapqiO7hSDZY1yL",
+    "spotifyName": "Rosalia",
+    "genres": [
+      "reggaeton",
+      "latin pop",
+      "latin trap"
+    ],
+    "primaryGenre": "latin"
+  },
+  "shakira": {
+    "spotifyId": "WpKyEjK3uHnR3mKdU5CIVm",
+    "spotifyName": "Shakira",
+    "genres": [
+      "reggaeton",
+      "latin pop"
+    ],
+    "primaryGenre": "latin"
+  },
+  "sub focus": {
+    "spotifyId": "IN3PerYs3CRoIoKIkHUszA",
+    "spotifyName": "Sub Focus",
+    "genres": [
+      "jungle",
+      "drum and bass",
+      "liquid funk"
+    ],
+    "primaryGenre": "drum and bass"
+  },
+  "chase & status": {
+    "spotifyId": "HfGScrDOhey5DUJjMpklzI",
+    "spotifyName": "Chase & Status",
+    "genres": [
+      "drum and bass",
+      "liquid funk",
+      "jungle"
+    ],
+    "primaryGenre": "drum and bass"
+  },
+  "netsky": {
+    "spotifyId": "HPZpZel06EmULZ9m0Qz0mV",
+    "spotifyName": "Netsky",
+    "genres": [
+      "drum and bass",
+      "liquid funk",
+      "jungle"
+    ],
+    "primaryGenre": "drum and bass"
+  },
+  "pendulum": {
+    "spotifyId": "MM8SIntfckBaN56kizepYe",
+    "spotifyName": "Pendulum",
+    "genres": [
+      "drum and bass",
+      "jungle"
+    ],
+    "primaryGenre": "drum and bass"
+  },
+  "ludovico einaudi": {
+    "spotifyId": "6fLBUG4KWNQi0Xg42Tf8rx",
+    "spotifyName": "Ludovico Einaudi",
+    "genres": [
+      "ambient",
+      "cinematic"
+    ],
+    "primaryGenre": "classical"
+  },
+  "hans zimmer": {
+    "spotifyId": "iT8QEbRYIPuYQ6wef12oMC",
+    "spotifyName": "Hans Zimmer",
+    "genres": [
+      "cinematic",
+      "neo-classical",
+      "ambient"
+    ],
+    "primaryGenre": "classical"
+  },
+  "yiruma": {
+    "spotifyId": "4gr30MJ6bH5692OhW4jcik",
+    "spotifyName": "Yiruma",
+    "genres": [
+      "ambient",
+      "cinematic",
+      "neo-classical"
+    ],
+    "primaryGenre": "classical"
+  },
+  "kordhell": {
+    "spotifyId": "6B4zeRS9FuaCnELNsM5VOc",
+    "spotifyName": "Kordhell",
+    "genres": [
+      "phonk",
+      "drift phonk"
+    ],
+    "primaryGenre": "phonk"
+  },
+  "dvrst": {
+    "spotifyId": "cATfe1WrUGckWOU2lOCBiF",
+    "spotifyName": "DVRST",
+    "genres": [
+      "phonk",
+      "drift phonk"
+    ],
+    "primaryGenre": "phonk"
+  },
+  "ghostface playa": {
+    "spotifyId": "XWmEqPxobkH0eiQqyNppZl",
+    "spotifyName": "Ghostface Playa",
+    "genres": [
+      "phonk",
+      "drift phonk",
+      "memphis rap"
+    ],
+    "primaryGenre": "phonk"
+  }
+}

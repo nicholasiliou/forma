@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- Primary Meta -->
+    <title>FORMA — Your Fitness Journey Visualized</title>
+    <meta name="description" content="Transform your workout data into an immersive 3D journey. See the muscles you've built, hear the music that powered you." />
+    
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#05080f" />
+    <meta name="color-scheme" content="dark" />
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="FORMA — Your Fitness Journey Visualized" />
+    <meta property="og:description" content="Transform your workout data into an immersive 3D journey." />
+    
+    <!-- Fonts: Space Grotesk (display) + Inter (body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+    
+    <!-- Inline loading screen - shows immediately before React loads -->
+    <style>
+      html { background: #05080f; }
+      body { margin: 0; }
+      
+      /* Initial loading screen - hidden once React mounts */
+      #initial-loader {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #05080f;
+        color: rgba(255, 255, 255, 0.95);
+        font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+        gap: 1.5rem;
+        z-index: 9999;
+        transition: opacity 0.3s ease-out;
+      }
+      #initial-loader.hidden {
+        opacity: 0;
+        pointer-events: none;
+      }
+      
+      /* FORMA logo text */
+      .loader-logo {
+        font-size: 2.5rem;
+        font-weight: 700;
+        letter-spacing: 0.3em;
+        color: rgba(255, 255, 255, 0.95);
+      }
+      
+      /* Loading text with spinner */
+      .loader-status {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        color: rgba(255, 255, 255, 0.55);
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-size: 0.9375rem;
+      }
+      
+      .loader-spinner {
+        width: 16px;
+        height: 16px;
+        border: 2px solid rgba(255, 255, 255, 0.1);
+        border-top: 2px solid rgba(99, 179, 237, 1);
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+      }
+      
+      @keyframes spin {
+        to { transform: rotate(360deg); }
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/index-CO0iq26k.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-Cs6emsHv.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-three-DkcKf3_u.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-r3f-B-AqW_u7.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-DklRZL9W.css">
+  </head>
+  <body>
+    <!-- Initial loader shown before React loads -->
+    <div id="initial-loader">
+      <div class="loader-logo">FORMA</div>
+      <div class="loader-status">
+        <div class="loader-spinner"></div>
+        Loading your journey...
+      </div>
+    </div>
+    
+    <div id="root"></div>
+
+  </body>
+</html>
